@@ -1,0 +1,4 @@
+Com base nos conhecimentos aprendidos nos cursos: Introdução ao git e github e Git e github focados em pull request, desenvolvi anotações em formato de um livro
+para fixar os ensinamentos. O nome do livro é "Minicurso - Git e Github" sendo Matheus Keshin o meu pseudonimo. O livro obviamente apresenta algumas falhas mas 
+o desenvolvi para ser usado por mim como consulta e para fixar o conhecimento como mencionado anteriormente e não tinha o intuito de compartilha-lo. M.K Academy 
+seria uma instituição de ensino ficticia criada por mim.
